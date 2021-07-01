@@ -4,8 +4,8 @@ SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitt
 ```
 apt-get update
 apt-get install git
-git clone https://github.com/samsesh/SocialBox-Termux.git 
-cd SocialBox-Termux
+git clone https://github.com/LinuxQueen9421/SocialBox.git 
+cd SocialBox
 chmod +x install-sb.sh
 ./install-sb.sh
 ```
@@ -14,17 +14,13 @@ chmod +x install-sb.sh
 ./SocialBox.sh
 ```
 # Screenshots :
-![Test Image 8](https://github.com/samsesh/SocialBox-Termux/blob/master/Screenshots/sb.png)
+![Test Image 8](https://github.com/LinuxQueen9421/SocialBox/blob/master/Screenshots/sb.png)
 # Tested On :
 * Termux on andriod (tor connected if use vpn )
 ### Donate
 - If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
-- [![Donation](https://img.shields.io/badge/BITCOIN-donate-yellow.svg)](bitcoin:BC1QF3NTHFRDKD7QJN4KP6YJDRRFSX5WHU39P9X5CP) : ```BC1QF3NTHFRDKD7QJN4KP6YJDRRFSX5WHU39P9X5CP```
 # for any os :
-* [socialbox](https://github.com/samsesh/SocialBox)
-# Contact
-* [Twitter](https://www.twitter.com/init__0) - init__0
-* [Instagram](https://www.instagram.com/init__0) - init__0
+* [socialbox](https://github.com/LinuxQueen9421/SocialBox)
 # Authors :
 * facebook  : Imad
 * gmail     : Ha3MrX
