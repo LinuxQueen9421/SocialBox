@@ -14,7 +14,7 @@ blue="\033[1;34m"
 nc="\e[0m"
 #ROOT PRIVILEGIES
 #if [[ $EUID -ne 0 ]]; then
-       echo -e "$red by samsesh.$nc"
+       echo -e "$purple by LinuxQueen9421.$nc"
 #        exit 1
 #fi
 #Installation
@@ -54,7 +54,7 @@ cd facebook
 perl fb-brute.pl $id $wordlist
 echo -e " 		[+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]"
 echo -e "$red"
-read -p "Wanna Back To Main Menu [ Y / n ] : " check
+read -p "Wanna Go Back To Main Menu? [ Y / n ] : " check
 echo -e "$nc"
 if [ $check = "Y" ]; then
 cd .. && bash SocialBox.sh
@@ -75,7 +75,7 @@ cd Gemail-Hack
 python gemailhack.py
 echo -e "               [+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]"
 echo -e "$red"
-read -p "Wanna Back To Main Menu [ Y / n ] : " check2
+read -p "Wanna Go Back To Main Menu? [ Y / n ] : " check2
 echo -e "$nc"
 if [ $check2 = "Y" ]; then
 cd .. && bash SocialBox.sh
@@ -102,7 +102,7 @@ echo -e "               [+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]
 service tor stop
 #echo -e "		[+]$red Service Tor Stopped$nc [+]"
 echo -e "$red"
-read -p "Wanna Back To Main Menu [ Y / n ] : " check3
+read -p "Wanna Go Back To Main Menu? [ Y / n ] : " check3
 echo -e "$nc"
 if [ $check3 = "Y" ]; then
 cd .. && bash SocialBox.sh
@@ -129,7 +129,7 @@ echo -e "               [+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]
 service tor stop
 echo -e "		[+]$red Service Tor Stopped$nc [+]"
 echo -e "$red"
-read -p "Wanna Back To Main Menu [ Y / n ] : " check4
+read -p "Wanna Go Back To Main Menu? [ Y / n ] : " check4
 echo -e "$nc"
 if [ $check4 = "Y" ]; then
 cd .. && bash SocialBox.sh
